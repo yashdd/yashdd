@@ -1,5 +1,4 @@
 ## Hi there 👋
-## About Me
 Hi, I'm Yash Deshpande! I'm a passionate Software Engineer with expertise in Web Development, Data Analytics, and AI. I love building innovative solutions using modern technologies.
 
 ## Skills
