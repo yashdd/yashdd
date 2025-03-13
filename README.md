@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 ## About Me
 Hi, I'm Yash Deshpande! I'm a passionate Software Engineer with expertise in Web Development, Data Analytics, and AI. I love building innovative solutions using modern technologies.
 
@@ -9,5 +7,8 @@ Hi, I'm Yash Deshpande! I'm a passionate Software Engineer with expertise in Web
 - **Web Development:** React.js, HTML, CSS, Node.js  
 - **Data & AI:** Machine Learning, Data Visualization, AI Research  
 - **Tools:** Git, Firebase, MongoDB, Stripe, Redux  
+
+
+<!--
 
 -->
