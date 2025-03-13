@@ -1,11 +1,9 @@
 ## Hi there 👋
 Hi, I'm Yash Deshpande! I'm a passionate Software Engineer with expertise in Web Development, Data Analytics, and AI. I love building innovative solutions using modern technologies.
 
-## Skills
-- **Programming:** JavaScript, Python, Java, SQL  
-- **Web Development:** React.js, HTML, CSS, Node.js  
-- **Data & AI:** Machine Learning, Data Visualization, AI Research  
-- **Tools:** Git, Firebase, MongoDB, Stripe, Redux  
+## Languages: Python, JavaScript, Java, SQL, C++   Databases: PostgreSQL, MySQL, MongoDB, SQL Server 
+Frameworks: NodeJS, ExpressJS, ReactJS, Django, Flask, Langchain   Tools & Technologies: Tableau, AWS, Docker, Git, Postman, Pega RPA, Blue Prism, SoapUI, HTML, CSS, Tailwind   Other: Automation Testing, Test Case Design, Handlebars, REST APIs
+
 
 
 <!--
