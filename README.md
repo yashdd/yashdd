@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Yash Deshpande!
+# Hi there, I'm Yash Deshpande!
 
 A **Software Engineer** with a passion for integrating **AI into software solutions**, bringing **2 years of industry experience** and currently pursuing a **Master’s in Computer Science** at **Stevens Institute of Technology**.
 
