@@ -32,10 +32,10 @@ Deeply interested in **AI Frameworks** like **LangChain**, and building **AI-dri
 
 ## 📈 Current Projects
 
-- 🎟️ **AttendEazy** – Full-stack event management and ticketing platform  
-- 🧠 **SummarizerAgent** – AI-based research paper summarizer + chatbot using LangChain & Streamlit  
-- 🐾 **PawPal** – Pet management and adoption platform built with Handlebars and Node.js  
-- 📊 **Social Media Campaign Analytics** – Deep data viz project on post types, timing, sentiment & demographics
+- 🎟**AttendEazy** – Full-stack event management and ticketing platform  
+- **SummarizerAgent** – AI-based research paper summarizer + chatbot using LangChain & Streamlit  
+- **PawPal** – Pet management and adoption platform built with Handlebars and Node.js  
+- **Social Media Campaign Analytics** – Deep data viz project on post types, timing, sentiment & demographics
 
 ---
 
