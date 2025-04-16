@@ -2,8 +2,9 @@
 
 A **Software Engineer** with a passion for integrating **AI into software solutions**, bringing **2 years of industry experience** and currently pursuing a **Master’s in Computer Science** at **Stevens Institute of Technology**.
 
-I'm actively seeking **full-time opportunities** starting **May 2025**, with a focus on **Software Development** and **Data Engineering/Analytics** roles.  
-Deeply interested in **AI applications**, **LangChain**, and building **AI-driven tools**, with a strong emphasis on bridging the gap between cutting-edge research and real-world product development.
+I'm actively seeking **full-time opportunities** starting **May 2025**, with a focus on **Software Development** and openness to **AI/ML** roles.  
+
+Deeply interested in **AI Frameworks** like **LangChain**, and building **AI-driven applications**, with a strong emphasis on bridging the gap between cutting-edge research and real-world product development.
 
 ---
 
