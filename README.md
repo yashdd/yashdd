@@ -17,16 +17,25 @@ Deeply interested in **AI Frameworks** like **LangChain**, and building **AI-dri
 `PostgreSQL` `MySQL` `MongoDB` `SQL Server`
 
 **Frameworks / Libraries**  
-`React.js` `Node.js` `Express.js` `Django` `Flask` `LangChain`
+`React.js` `Node.js` `Express.js` `Django` `Flask` `FastAPI` `LangChain`
 
-**Tools & Tech**  
-`AWS` `Docker` `Git` `Postman` `Tableau` `Pega RPA` `Blue Prism` `SoapUI`  
-`HTML` `CSS` `Tailwind CSS` `Handlebars`
+**AI/ML Technologies**  
+`Scikit-learn` `OpenAI API` `TensorFlow` `PyTorch` `NLTK` `Pandas` `NumPy` `RAGs` `LLM Fine Tuning`
+
+**Cloud & DevOps**  
+`AWS (EC2, S3, CodePipeline, CodeDeploy, ECS, ECR)` `Firebase Auth` `Docker` `Render` `Vercel`
+
+**Tools & Platforms**  
+`Git` `GitHub` `Postman` `Tableau` `Pega RPA` `Blue Prism` `SoapUI` `Jira`
+
+**Frontend Technologies**  
+`HTML` `CSS` `Tailwind CSS` `Handlebars` `Bootstrap`
 
 **Testing & QA**  
-`Automation Testing` `Test Case Design` `REST APIs` `UI/API Validation`
+`Automation Testing` `Test Case Design` `REST API Validation` `UI/API Testing` `UAT (User Acceptance Testing)`
 
-> *(I'll be adding more soon — always evolving.)*
+> *(I'm constantly learning and expanding my tech stack! 🚀)*
+
 
 ---
 
