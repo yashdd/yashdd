@@ -32,10 +32,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🏢 Currently a **Full Stack Developer at Kingship AI Inc.** — shipping production LLM apps on the App Store
+- 🏢 Currently a **Full Stack Developer at Kingship AI Inc.** shipping production LLM apps on the App Store
 - 🎓 Completed **M.S. Computer Science** at Stevens Institute of Technology (GPA: 3.87/4.0)
-- 🤖 Passionate about **agentic RAG systems**, LangChain, vector databases, and LLM fine-tuning
-- 🔁 Previously at **Tata Consultancy Services (TCS)** — 2 years building APIs and backend systems at scale
+- 🤖 Passionate about **agentic RAG systems**, LangChain, LangGraph, vector databases, and LLM fine-tuning
+- 🔁 Previously at **Tata Consultancy Services (TCS)** with 2 years building APIs and backend systems at scale
 - 📍 Based in the **New York City Metropolitan Area**, open to on-site, hybrid, and remote roles
 - 💡 Actively seeking **full-time opportunities** in Software Engineering and AI/ML
 
@@ -59,6 +59,7 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![BERTopic](https://img.shields.io/badge/BERTopic-764ABC?style=flat-square&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
@@ -90,50 +91,44 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💹 [Finance Copilot — AI Financial Assistant](https://github.com/yashdd/finance-copilot)
+### 📡 [Trend Forecasting Agent Network](https://github.com/yashdd/Trend_forecasting_Agent_Network)
+> **FastAPI · LangGraph · React · PostgreSQL · pgvector · BERTopic · Gemini · Docker**
+
+Full-stack trend intelligence platform ingesting 10 sources (Reddit, Hacker News, arXiv, GitHub, Product Hunt, Stack Overflow, and more) daily. LangGraph agents cluster discussions into semantic topics via sentence-transformers and BERTopic/HDBSCAN, score momentum and cross-source validation, and surface concise Gemini-powered insights in a live dashboard. Includes webhook-based alerting, weekly auto-generated reports, and optional Databricks job orchestration.
+
+---
+
+### 💹 [Finance Copilot](https://github.com/yashdd/finance-copilot)
 > **Next.js · FastAPI · LangChain · ChromaDB · Gemini · MongoDB**
 
-Agentic RAG chatbot with autonomous tool-calling capabilities. Aggregates live stock data and news via Finnhub & Alpha Vantage across 36+ endpoints. **Reduced LLM API costs by 60%** through semantic caching. Supports natural-language stock analysis and watchlist management.
+Agentic RAG chatbot with autonomous tool-calling capabilities, aggregating live stock data and news via Finnhub and Alpha Vantage across 36+ endpoints. Reduced LLM API costs by 60% through semantic caching. Supports natural-language stock analysis and watchlist management.
 
 ---
 
-### 🤖 [TroubleMate AI — DevOps Assistant](https://github.com/yashdd/TroubleMateAI)
+### 🤖 [TroubleMate AI](https://github.com/yashdd/TroubleMateAI)
 > **Next.js · Python · LangChain · FAISS · Redis**
 
-Hybrid retrieval RAG system over a 5,000+ document knowledge base aggregated from Slack, Jira, Stack Overflow, and GitHub. Automated ingestion pipeline for continuous updates. **Hybrid search improved answer relevance by 18%** over dense-only baseline.
+Hybrid retrieval RAG system over a 5,000+ document knowledge base aggregated from Slack, Jira, Stack Overflow, and GitHub. Automated ingestion pipeline for continuous knowledge base updates. Hybrid search improved answer relevance by 18% over a dense-only baseline on company-specific DevOps queries.
 
 ---
 
-### 🛡️ [SurroundShield — AI Environmental Risk Assistant](https://github.com/yashdd/surroundshield)
+### 🛡️ [SurroundShield](https://github.com/yashdd/surroundshield)
 > **React · Node.js · Flask · LLaMA 3.3 (70B) · Databricks**
 
-Built for **Chubb's AI Innovation Challenge**. Prompt-engineered LLaMA 3.3 (70B) on Databricks with domain-specific environmental and health data. Delivers personalized location-aware risk guidance in **under 3 seconds** by parallelizing API calls.
+Built for Chubb's AI Innovation Challenge. Prompt-engineered LLaMA 3.3 (70B) on Databricks with domain-specific environmental and health data. Delivers personalized, location-aware risk guidance in under 3 seconds by parallelizing API calls across weather and health profile sources.
 
 ---
 
-### 🐾 [PawPal — Petcare Services Platform](https://github.com/yashdd/PawPal_Petcare_Website)
+### 🐾 [PawPal](https://github.com/yashdd/PawPal_Petcare_Website)
 > **Node.js · Express.js · MongoDB · Socket.io · JWT**
 
-Secure multi-role platform with JWT auth and role-based access control across 20+ API endpoints. Real-time lost & found tracking via Socket.io. Achieved **under 1s notification latency** and **under 300ms response times** with 100+ concurrent users.
-
----
-
-### 🎓 [Student Information Management System](https://www.kjsieit.in/sims/php/home.php) *(Live in Production)*
-> **Node.js · Express.js · MySQL · HTML/CSS/JS**
-
-Multi-role platform (admin, faculty, student) managing attendance, grades, and academic workflows for **2,000+ users** across **100,000+ records**. Live in production for **4+ years**. Reduced manual administrative workload by 40%.
-
----
-
-### 📊 [Customer Conversion Prediction](https://github.com/yashdd/Customer_Conversion_Prediction)
-> **Python · Scikit-learn · SMOTE · Pandas**
-
-Classification pipeline on 68,000+ insurance campaign records. Random Forest achieved **93.7% accuracy and 0.985 AUC**. Applied SMOTE for class imbalance handling; call duration emerged as the top conversion predictor.
+Secure multi-role petcare platform with JWT auth and role-based access control across 20+ API endpoints. Real-time lost and found tracking via Socket.io with under 1s notification latency and under 300ms response times under 100+ concurrent users.
 
 ---
 
@@ -141,9 +136,9 @@ Classification pipeline on 68,000+ insurance campaign records. Random Forest ach
 
 | Company | Role | Period |
 |---|---|---|
-| 🏢 **Kingship AI Inc.** | Full Stack Developer (Remote) | Jul 2025 – Present |
-| 🎓 **Hanlon Financial System Center** | Graduate Lab Assistant | Jul 2024 – May 2025 |
-| 🏭 **Tata Consultancy Services (TCS)** | Software Engineer | Jul 2021 – Jul 2023 |
+| 🏢 **Kingship AI Inc.** | Full Stack Developer (Remote) | Jul 2025 -- Present |
+| 🎓 **Hanlon Financial System Center** | Graduate Lab Assistant | Jul 2024 -- May 2025 |
+| 🏭 **Tata Consultancy Services (TCS)** | Software Engineer | Jul 2021 -- Jul 2023 |
 
 ---
 
@@ -162,7 +157,7 @@ Classification pipeline on 68,000+ insurance campaign records. Random Forest ach
 
 ## 📬 Let's Connect
 
-I'm actively looking for **full-time Software Engineering and AI/ML roles**. Feel free to reach out!
+Actively looking for full-time Software Engineering and AI/ML roles. Feel free to reach out!
 
 <p align="center">
   <a href="mailto:yashdd10@gmail.com"><b>✉️ yashdd10@gmail.com</b></a> &nbsp;|&nbsp;
@@ -172,5 +167,5 @@ I'm actively looking for **full-time Software Engineering and AI/ML roles**. Fee
 </p>
 
 <p align="center">
-  <i>"Building at the intersection of systems engineering and AI — one production deploy at a time."</i>
+  <i>"Building at the intersection of systems engineering and AI, one production deploy at a time."</i>
 </p>
