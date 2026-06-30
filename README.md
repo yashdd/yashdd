@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <b>Full Stack Software Engineer · AI/LLM Systems · New York Metro Area</b><br/>
-  <i>Bridging cutting-edge AI research with real-world product development</i>
+  <b>AI Engineer · Full Stack Systems · New York Metro Area</b><br/>
+  <i>Bridging cutting-edge AI research with real-world production systems</i>
 </p>
 
 <p align="center">
@@ -24,7 +24,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashdd&style=for-the-badge&color=58a6ff" />
-  <img src="https://img.shields.io/badge/Open%20To%20Work-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/M.S.%20CS%20%40%20Stevens-GPA%203.87-blueviolet?style=for-the-badge" />
 </p>
 
@@ -32,16 +31,25 @@
 
 ## 🧑‍💻 About Me
 
-- 🏢 Currently a **Full Stack Developer at Kingship AI Inc.** shipping production LLM apps on the App Store
-- 🎓 Completed **M.S. Computer Science** at Stevens Institute of Technology (GPA: 3.87/4.0)
-- 🤖 Passionate about **agentic RAG systems**, LangChain, LangGraph, vector databases, and LLM fine-tuning
-- 🔁 Previously at **Tata Consultancy Services (TCS)** with 2 years building APIs and backend systems at scale
-- 📍 Based in the **New York City Metropolitan Area**, open to on-site, hybrid, and remote roles
-- 💡 Actively seeking **full-time opportunities** in Software Engineering and AI/ML
+- 🏢 Currently an **AI Engineer at Cigna**, building enterprise AI solutions at production scale
+- 🚀 Previously shipped **Spree**, an AI gift recommendation app live on the App Store with 500+ daily users
+- 🎓 **M.S. Computer Science**, Stevens Institute of Technology (GPA: 3.87/4.0)
+- 🤖 Deep focus on **agentic RAG systems**, LangChain/LangGraph, vector databases, and LLM application architecture
+- 🔁 Started my career at **Tata Consultancy Services**, 2+ years building enterprise backend systems at scale
+- 📍 Based in the **New York City Metro Area**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Stack
+
+**AI/LLM:** LangChain · LangGraph · RAG · OpenAI · Gemini · Vector DBs (Pinecone, ChromaDB, FAISS)
+**Backend:** Python · FastAPI · Node.js · Spring Boot
+**Frontend:** React · React Native · Next.js · TypeScript
+**Cloud & Data:** AWS · Azure · Docker · PostgreSQL · MongoDB · Redis
+
+<details>
+<summary>📦 Full tech badge list</summary>
+<br/>
 
 ### 🤖 AI / LLM Systems
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -93,6 +101,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white)
 
+</details>
+
 ---
 
 ## 🚀 Featured Projects
@@ -136,9 +146,10 @@ Secure multi-role petcare platform with JWT auth and role-based access control a
 
 | Company | Role | Period |
 |---|---|---|
-| 🏢 **Kingship AI Inc.** | Full Stack Developer (Remote) | Jul 2025 -- Present |
-| 🎓 **Hanlon Financial System Center** | Graduate Lab Assistant | Jul 2024 -- May 2025 |
-| 🏭 **Tata Consultancy Services (TCS)** | Software Engineer | Jul 2021 -- Jul 2023 |
+| 🏢 **Cigna** | AI Engineer | Apr 2026 -- Present |
+| 🚀 **Kingship AI Inc.** | Full Stack Developer | Jul 2025 -- Apr 2026 |
+| 🎓 **Hanlon Financial Systems Center** | Full-Stack Developer | Jul 2024 -- May 2025 |
+| 🏭 **Tata Consultancy Services** | Software Engineer | Jul 2021 -- Jul 2023 |
 
 ---
 
@@ -157,7 +168,7 @@ Secure multi-role petcare platform with JWT auth and role-based access control a
 
 ## 📬 Let's Connect
 
-Actively looking for full-time Software Engineering and AI/ML roles. Feel free to reach out!
+Always open to connecting with engineers, founders, and teams building practical AI products.
 
 <p align="center">
   <a href="mailto:yashdd10@gmail.com"><b>✉️ yashdd10@gmail.com</b></a> &nbsp;|&nbsp;
